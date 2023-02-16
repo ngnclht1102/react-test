@@ -5,7 +5,17 @@ The 1st, 2nd, and 3rd exercise's source code is in this repo. And I have deploye
 I have some issues with configure this project to work with codepen so I place it here.
 ### Demo
 
+App:
+
 https://verdant-melba-07b4ea.netlify.app
+
+Running End to end test:
+
+https://youtu.be/QK05v68uUbI
+
+Running unit test:
+
+https://youtu.be/Nsg6XwLioK0
 
 ### Instalation steps
 
