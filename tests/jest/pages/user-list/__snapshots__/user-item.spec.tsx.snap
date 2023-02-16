@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`User item component 1. Should render component properly 1`] = `
+<div
+  className="hover:shadow-lg hover:bg-pink-500 rounded-lg bg-pink-400 mt-5 p-5 flex items-center justify-between"
+>
+  <div>
+    <p
+      className="font-bold text-lg text-white"
+      data-testid="user-name"
+    >
+      Name: 
+      Leanne Graham
+    </p>
+    <p
+      className="text-md text-gray-100"
+      data-testid="company-name"
+    >
+      Company: 
+      Romaguera-Crona
+    </p>
+    <p
+      className="text-md text-gray-100"
+      data-testid="address"
+    >
+      Adress: 
+          Apt. 556,
+          Kulas Light, 
+          92998-3874,
+          Gwenborough
+    </p>
+  </div>
+  <a
+    className="text-md text-gray-100 underline italic"
+    href="https://maps.google.com/?q=-37.3159,81.1496"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    View on map
+  </a>
+</div>
+`;

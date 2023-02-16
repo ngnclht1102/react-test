@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text input component 1. Should render component properly 1`] = `
+<div
+  data-cy="textinput_email"
+  data-testid="wrapper"
+>
+  <input
+    data-testid="input"
+    name="email"
+    onChange={[Function]}
+    placeholder="enter your email"
+    type="text"
+    value="an existed value"
+  />
+</div>
+`;
